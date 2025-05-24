@@ -13,6 +13,7 @@ We used **Excel** to improve data quality and ensure proper analysis:
 
 ## 📊 Data Visualization in Tableau
 Tableau dashboards highlight key AQI trends:
+
 ✅ **Yearly AQI Trends** (Line Chart showing YoY variations)  
 ✅ **Top 4 Cities with Worst AQI** (Bar Chart ranking pollution levels)  
 ✅ **Top 5 Cities with Best AQI** (Bar Chart ranking pollution levels)
