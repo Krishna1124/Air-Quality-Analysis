@@ -14,14 +14,15 @@ We used **Excel** to improve data quality and ensure proper analysis:
 ## 📊 Data Visualization in Tableau
 Tableau dashboards highlight key AQI trends:
 ✅ **Yearly AQI Trends** (Line Chart showing YoY variations)  
-✅ **Top 5 Cities with Worst AQI** (Bar Chart ranking pollution levels)  
-✅ **AQI Hotspots Map** (Geospatial heatmap of pollution severity)  
+✅ **Top 4 Cities with Worst AQI** (Bar Chart ranking pollution levels)  
+✅ **Top 5 Cities with Best AQI** (Bar Chart ranking pollution levels)
+✅ **AQI Hotspots Map** (City-wise AQI Levels)  
 ✅ **AQI Bucket Distribution** (Pie Chart for AQI categories: Good, Poor, Hazardous)  
-✅ **Forecasting AQI Trends** (Projected pollution levels for future years)  
+
 
 ## 🚀 How to Use This Repo
 1️⃣ **Download** `cleaned_data.xlsx` to explore structured AQI data.  
-2️⃣ **Open** `aqi_dashboard.twbx` in Tableau to visualize trends.  
+2️⃣ **Open** `AQI_dashboard.twbx` in Tableau to visualize trends.  
 3️⃣ **Review** `README.md` for methodology and insights.  
 
 ## 🌍 Data Source & Tools Used
